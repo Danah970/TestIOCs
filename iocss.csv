@@ -1,2 +1,0 @@
-value,Type,Severity,Created,Modified,Tag
-39d7407e76080ec5d838c8ebca5182f3ac4a5f416ff7bda9cbc4efffd78b4ff5,SHA-256,Critical,06-06-24 18:04,10-08-25 0:20,"File Type: PE,File Size: 64000,File Type: Win32 DLL,Malware Family: TENCURLS,Malware Family: SUBTLELIME,Malware Family: LIGHTLIME,Malware Family: QUICKLIME,Report Name: CTI-30052024W,Malware Family: COOLLIME,Malware Family: SUBLIME,Malware Family: Lazarus.cw"
